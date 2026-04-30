@@ -4,6 +4,15 @@ PSVE is a desktop video editor for practical shooting match videos. It helps tur
 
 The app is designed around a project folder. Scores, imported video state, detected trim points, exported clips, score cards, and final videos are kept together so different matches do not overwrite each other.
 
+## Contact
+Feel free to send any feedback at michallasek92@gmail.com
+Also feel free to report issues directly in github
+
+## Usage Example
+This is a sample video i made in this app, expect your final result to be something like that:
+https://youtu.be/9dYnIif2NeM?si=O9AEz9FW1-sXhXrZ
+
+
 ## What It Does
 
 - Extracts shooter score data from a saved PractiScore HTML page.
